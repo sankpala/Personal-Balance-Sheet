@@ -7,10 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/16fsyVD49Rejxnd7UIYpzxRSOmzbalkMl
 """
 
-pip install selenium
-
-pip install psycopg2-binary
-
 import sys
 import os
 from selenium import webdriver
